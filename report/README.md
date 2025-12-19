@@ -10,7 +10,7 @@ This directory or folder contains the formal documentation and presentation(fina
 * **File:** `Presentation_Slides_DL.pdf`
 * **Content:** A visual summary of the project, covering the introduction, problem background, dataset, methodology, technical architecture, evaluations, demo video and reflections/conclusions.
 
-##Report Highlights
+## Report Highlights
 The final report discusses:
 * **Methodology:** Implementation of a lightweight 1D-CNN for real-time pitch estimation.
 * **Experiments:** Comparison between the baseline model and data augmentation techniques on the MIR-1K dataset.
