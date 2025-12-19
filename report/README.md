@@ -1,4 +1,4 @@
-#Project Reports & Slides
+# Project Reports & Slides
 
 This directory or folder contains the formal documentation and presentation(final) deliverables for the **ResonAI** project (Deep Learning course).
 
